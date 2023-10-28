@@ -1,0 +1,6 @@
+Estudei sobre:
+
+1- Navegação de páginas no HTML
+2- Criando o nosso primeiro link
+3- Navegando até uma página externa
+4- Criando página de contato
